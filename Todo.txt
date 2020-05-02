@@ -1,0 +1,23 @@
+Methodology:
+About ARIMA
+https://en.wikipedia.org/wiki/Autoregressive_integrated_moving_average
+https://otexts.com/fpp2/arima.html
+
+Stationarity Deferencing
+https://otexts.com/fpp2/stationarity.html
+
+equations, p d q, AR, MA, ARIMA, d
+https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/
+
+
+Estimation Order Selection
+https://otexts.com/fpp2/arima-estimation.html
+
+Results:
+Graphs Discussion Each State
+Estimated Results Table
+Error Details
+Accuracy
+
+Conclusion:
+Indian Economy, Methodology, Accuracy
